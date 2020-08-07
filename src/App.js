@@ -14,11 +14,11 @@ function App() {
         <textarea/>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.bing.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Link
         </a>
       </header>
     </div>
